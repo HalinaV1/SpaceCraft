@@ -7,7 +7,7 @@ INIT_DY = 0             # m/s
 
 GRAVITY = -1.62         # 1.62 m/s^2 (The Moon)
 
-# Specs and parameters were taken from:
+# Characteristics and parameters were taken from:
 # https://en.m.wikipedia.org/wiki/Apollo_Lunar_Module
 MASS_DRY = 2300         # kg
 MASS_PROPELLANT = 2400  # kg
